@@ -8,4 +8,4 @@ userId = 123;
 firstName = "Ashiq";
 isActivated = true;
 id = 92; // you can use: number, string, boolean etc.
-console.log(`"id:" ${id}`);
+console.log("Hello");
